@@ -1,0 +1,26 @@
+{
+  "name": "twovc.macro",
+  "version": "0.0.5",
+  "description": "over-ride tailwind classes with babel-macros",
+  "main": "index.js",
+  "keywords": [
+    "babel-macros",
+    "babel-plugin-macros"
+  ],
+  "author": "Yash Rathore <contactyashrathore@gmail.com> (https://yashrathore.com)",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/contactyashh/twovc.macro"
+  },
+  "bugs": {
+    "url": "https://github.com/contactyashh/twovc.macro/issues"
+  },
+  "homepage": "https://github.com/contactyashh/twovc.macro#readme",
+  "dependencies": {
+    "babel-plugin-macros": "^2.8.0"
+  },
+  "engines": {
+    "node": ">=10"
+  }
+}
