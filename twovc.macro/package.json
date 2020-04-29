@@ -1,6 +1,6 @@
 {
   "name": "twovc.macro",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "description": "over-ride tailwind classes with babel-macros",
   "main": "index.js",
   "keywords": [

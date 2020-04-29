@@ -10,8 +10,13 @@ Note - This might be problem if you use this in design system where, it will be 
 Installation
 Create react App by default support babel macros, so you need to do no configuration.
 
-npm i twovc.macro
+```sh npm i twovc.macro
+
+```
+
+```js
 import twovc from "twovc.macro";
 function App() {
   return <div className={twovc("class1", "class2")}>Hello World</div>;
 }
+```
